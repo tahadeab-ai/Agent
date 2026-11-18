@@ -1,4 +1,4 @@
-# 🚀 Antigravity General-Purpose AI Agent
+# 🚀 General-Purpose AI Agent
 
 <div align="center">
 
